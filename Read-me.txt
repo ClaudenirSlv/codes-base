@@ -1,0 +1,4 @@
+SITES
+
+Strings de conexão de banco de dados:
+https://www.connectionstrings.com/
